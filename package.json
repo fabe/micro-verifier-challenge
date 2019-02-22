@@ -8,10 +8,9 @@
     "dev": "micro-dev"
   },
   "dependencies": {
-    "micro": "^9.3.2"
+    "micro": "^9.3.3"
   },
   "devDependencies": {
-    "micro-dev": "^3.0.0",
-    "nodemon": "^1.18.10"
+    "micro-dev": "^3.0.0"
   }
 }
