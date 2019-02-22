@@ -1,0 +1,17 @@
+{
+  "name": "micro-verifier-challenge",
+  "version": "1.0.0",
+  "description": "A tiny Node.js microservice to generate a cryptographically-random `verifier` and `challenge` (for React Native authentication flows).",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro",
+    "dev": "micro-dev"
+  },
+  "dependencies": {
+    "micro": "^9.3.2"
+  },
+  "devDependencies": {
+    "micro-dev": "^3.0.0",
+    "nodemon": "^1.18.10"
+  }
+}
